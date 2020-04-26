@@ -25,10 +25,22 @@ Completed Kata (Purple)  |    128   |    completion of a "proficient" level kata
 Completed Kata (Beta)    |    2     |    when the kata is approved, you get the points missing according to its actual approved rank
 ```
 
+### Repo Structure
+There is one main directory in this repository as `katas`.
+
+```
+ katas
+   ├── kyu_4
+   ├── kyu_5
+   ├── kyu_6
+   ├── kyu_7
+   └── kyu_8
+```   
+   
 For each completed kata, there is a corresponding unittest file containing codewars link.
 
 ```
-├── katas
-│   ├── kyu_8
-│   │   ├── multiply.py
+katas
+   ├── kyu_8
+   │   ├── multiply.py
 ```
