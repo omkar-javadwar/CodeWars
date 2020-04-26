@@ -14,13 +14,21 @@ I am currently ranked `4 kyu` with 500+ katas solved.
 
 ### [Ranking](http://www.codewars.com/about)
 
-```
 You earn honor when you accomplish certain goals on Codewars.
 
+```
 Solving katas            |   Honor  |                  Description
 Completed Kata (White)   |    2     |    completion of a "beginner" level kata (8kyu and 7kyu)
 Completed Kata (Yellow)  |    8     |    completion of a "novice" level kata (6kyu and 5kyu)
 Completed Kata (Blue)    |    32    |    completion of a "competent" level kata (4kyu and 3kyu)
 Completed Kata (Purple)  |    128   |    completion of a "proficient" level kata (2kyu and 1 kyu)
 Completed Kata (Beta)    |    2     |    when the kata is approved, you get the points missing according to its actual approved rank
+```
+
+For each completed kata, there is a corresponding unittest file.
+
+```
+├── katas
+│   ├── kyu_8
+│   │   ├── multiply.py
 ```
