@@ -1,4 +1,4 @@
-[![Python Version](https://img.shields.io/badge/python-3.6-green.svg)]()
+[![Python Version](https://img.shields.io/badge/python-3.6-blue.svg)]()
 
 # Codewars - Python Solutions
 
@@ -25,7 +25,7 @@ Completed Kata (Purple)  |    128   |    completion of a "proficient" level kata
 Completed Kata (Beta)    |    2     |    when the kata is approved, you get the points missing according to its actual approved rank
 ```
 
-For each completed kata, there is a corresponding unittest file.
+For each completed kata, there is a corresponding unittest file containing codewars link.
 
 ```
 ├── katas
