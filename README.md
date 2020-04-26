@@ -1,4 +1,4 @@
-[![Python Version](https://img.shields.io/badge/python-2.7-blue.svg)]()
+[![Python Version](https://img.shields.io/badge/python-3.6-green.svg)]()
 
 # Codewars - Python Solutions
 
