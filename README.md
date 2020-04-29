@@ -30,6 +30,7 @@ There is one main directory in this repository as `katas`.
 
 ```
  katas
+   ├── beta
    ├── kyu_4
    ├── kyu_5
    ├── kyu_6
