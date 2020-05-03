@@ -10,4 +10,4 @@ Your task is to write a function, which takes two arguments and returns a sequen
 
 
 def multiply_and_filter(seq, multiplier): 
-    return [i*multiplier for i in seq if ((isinstance(i,int) or isinstance(i,float)) and not isinstance(i,bool))]
+    return [i*multiplier for i in seq if (isinstance(i,(int,float)) and not isinstance(i,bool))]
